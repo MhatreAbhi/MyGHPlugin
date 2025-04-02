@@ -17,8 +17,8 @@ namespace MyGHPlugin
         /// new tabs/panels will automatically be created.
         /// </summary>
         public MyGHComponent()
-          : base("MyGHComponent", "Nickname",
-            "Description",
+          : base("mortice", "Nickname",
+            "this is mu firstplugin ",
             "Category", "Subcategory")
         {
         }
